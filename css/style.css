@@ -1,0 +1,76 @@
+@import url(http://fonts.googleapis.com/css?family=Bree+Serif);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,900,300);
+
+body {
+  background: url(../img/gong_transparent_gradient_lighter_251x512.jpg) no-repeat, url(../img/klangschale_kissen_gradient_640.jpg) no-repeat bottom right;
+	padding-left: 100px;
+	font-family: Roboto;
+}
+
+h1 {
+	font-weight: 900;
+	font-size: 300%;
+	color: rgba(166, 0, 77, 1);
+	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.6);
+	-webkit-margin-before: 0.3em;
+	-webkit-margin-after: 0.1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+}
+
+h2 {
+	color: rgba(174, 66, 36, 1);
+	font-size: 200%;
+	font-weight: 300;
+	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.5);
+}
+
+h3 {
+	font-size: 180%;
+	font-weight: 600;
+	color: rgba(189, 110, 76, 1);
+	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
+	-webkit-margin-before: 0.3em;
+	-webkit-margin-after: 0.3em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;	
+}
+
+h4 {
+	color: rgba(166, 0, 77, 1);
+	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
+}
+
+h5 {
+	color: rgba(189, 96, 57, 1);
+	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
+}
+
+p {
+	color: rgba(120, 120, 120, 1);
+	text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.5);
+}
+
+a {
+	color: rgba(120, 120, 180, 1);
+	-webkit-transition: 0.3s;
+	transition: 0.3s;
+}
+
+a:hover {
+	background: rgba(245, 151, 110, 0.4);
+	color: rgba(96, 164, 161, 1);
+}
+
+ul {
+	color: rgba(120, 120, 120, 1);
+	list-style-type: none;
+	text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.5);
+}
+
+p.footer {
+	font-size: 80%;
+	color: rgba(128, 128, 128, 1);
+	padding-top: 1.5em;
+	padding-bottom: 2em; 
+}
