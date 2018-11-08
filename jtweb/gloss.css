@@ -1,0 +1,10 @@
+body { 
+  margin: 2mm 2mm 2mm 2mm;
+  font-family: verdana, arial, sans-serif;
+}
+
+p, td { font-size: 10pt; }
+
+td { vertical-align: top; }
+
+td.L { padding-left: 5mm; }

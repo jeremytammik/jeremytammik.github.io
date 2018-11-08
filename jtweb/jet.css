@@ -1,0 +1,36 @@
+body { 
+  margin: 2mm 2mm 2mm 2mm;
+  font-family: verdana, arial, sans-serif;
+}
+
+h1, p, li, td, th { font-family: verdana, arial, sans-serif; }
+
+p, li, td, th { font-size: 10pt; }
+
+p { margin-top: 3pt; margin-bottom: 0pt; }
+
+ul { margin-top: 5pt; margin-bottom: 5pt; }
+
+th { text-align: left; }
+td { vertical-align: top; }
+td.L { padding-left: 2mm; }
+td.L2 { padding-left: 5mm; white-space: nowrap; }
+td.R { text-align: right; }
+td.S { font-size: 8pt; text-align: right; padding-left: 5mm; }
+
+.0 { margin-top: 0pt; }
+
+p.head { font: 12pt bolder; }
+
+.menuhead { font-size: 16pt; text-decoration: none; }
+.menuitem { font-size: 14pt; text-decoration: none; margin-left: 5mm; }
+
+.hobby { background-color:silver; font-size:12pt; font-weight:bold; }
+
+td.referee { background-color:silver; font-size:10pt; font-weight:bold; }
+td.refereeL { background-color:silver; font-size:10pt; font-weight:bold; text-align:left; }
+
+ul.pro { margin-top: 0pt; margin-bottom: 0pt; }
+li.pro { margin-left: 0pt; }
+
+img { vertical-align : top }
