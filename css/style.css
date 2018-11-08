@@ -74,3 +74,111 @@ p.footer {
 	padding-top: 1.5em;
 	padding-bottom: 2em; 
 }
+
+li.aboutme {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/aboutme_32.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
+
+li.facebook {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/FB-f-Logo__blue_29.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
+
+li.flickr {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/flickr.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
+
+li.github {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/GitHub-Mark-32px.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
+
+li.googleplus {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/googleplus.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
+
+li.linkedin {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/linkedin.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
+
+li.paypal {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/paypal_32.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
+
+li.stackoverflow {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/stackoverflow-icon.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
+
+li.twitter {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/twitter_logo_blue_32.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
+
+li.vimeo {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/vimeo_32.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
+
+li.xing {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/xing_32.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
+
+li.youtube {
+  list-style-type: none;
+  padding-left: 1.5em;
+  background-image: url('../icon\/youtube_icon_32.png');
+  background-size: 1em;
+  background-repeat: no-repeat;
+  margin-top: 2px;
+}
